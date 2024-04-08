@@ -8,15 +8,21 @@ Designing a PID Fuzzy controller for a Wind Turbine system Using MATLAB &amp; Si
   <img src="./Pictures/Simulation1.png" /> 
 </p>
 ---
-- Result Table
+- Kp Laws Table
 <p align="center">
   <img src="./Pictures/Kp_Laws.png" /> 
 </p>
 ---
 
-- Result Table
+- Ki Laws Table
 <p align="center">
   <img src="./Pictures/Ki_Laws.png" /> 
+</p>
+
+---
+- Kd Laws Table
+<p align="center">
+  <img src="./Pictures/Kd_Laws.png" /> 
 </p>
 
 ---
