@@ -3,13 +3,28 @@ Designing a PID Fuzzy controller for a Wind Turbine system Using MATLAB &amp; Si
 
 ## Design of robot in SolidWorks
 ---
-- Design and Simulation of robot using SolidWorks
+- Simulation of Different Situation and Scenarioes in Simulink MATLAB
 <p align="center">
   <img src="./Pictures/Simulation1.png" /> 
 </p>
-
+---
+- Result Table
+<p align="center">
+  <img src="./Pictures/Kp_Laws.png" /> 
+</p>
 ---
 
+- Result Table
+<p align="center">
+  <img src="./Pictures/Ki_Laws.png" /> 
+</p>
+
+---
+- Result Table
+<p align="center">
+  <img src="./Pictures/ResultTable.png" /> 
+</p>
+---
 ## Contributers
 <table>
   <tr>
