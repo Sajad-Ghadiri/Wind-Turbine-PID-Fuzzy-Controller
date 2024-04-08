@@ -29,11 +29,13 @@ Designing a PID Fuzzy controller for a Wind Turbine system Using MATLAB &amp; Si
 </p>
 
 ---
+
 - Result Table
 <p align="center">
   <img src="./Pictures/ResultTable.png" /> 
 </p>
 ---
+
 ## Contributers
 <table>
   <tr>
